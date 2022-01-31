@@ -1,9 +1,4 @@
-#     #COMP 10001 - W2020 Final Project by Taran Preet Singh, Student number 000824301 Welcome to my dice game, good luck!       #
-#     # I, Taran Preet Singh, student number 000824301, certify that all code submitted is my own work;                                             #
-#     #that I have not copied it from any other source.                                                                                                                  #
-#    #I also certify that I have not allowed my work to be copied by others.                                                                                    #
-###############################################################################################
-print("COMP 10001 - W2020 Final Project by Taran Preet Singh, Student number: 000824301 Welcome to my dice game, good luck!")
+print("Welcome to my dice game, good luck!")
 
 #defined functions
 
